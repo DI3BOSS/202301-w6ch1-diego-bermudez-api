@@ -1,0 +1,9 @@
+{
+  "scripts": {
+    "start": "json-server toDo.json",
+    "build": "install"
+  },
+  "devDependencies": {
+    "json-server": "^0.17.1"
+  }
+}
